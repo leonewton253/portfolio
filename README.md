@@ -2,7 +2,7 @@ _Portfolio Landing Page_
 
 _**by Terry Urich**_
 
-_A Github hosted landing page to showcase projects I've worked on in a proffesional or academic capacity_
+_A Github hosted landing page to showcase projects I've worked on in a professional or academic capacity_
 
 1. Clone repo
 1. Navigate to folder and open index.html in any browser
