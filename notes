@@ -1,0 +1,30 @@
+Git Notes:
+
+git init
+git pair tu es
+git add .
+git commit -m "First commit"
+git config user.name "Billy Everyteen"
+git remote add origin http...
+git push -u origin master
+git checkout "branch name"    (select branches)
+git fetch  (updates local copy on machine)
+
+Pushing using initals:
+git remote add tu http.....
+git push tu master
+
+
+https://help.github.com/articles/setting-your-username-in-git/
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+Example .pairs file in Home
+
+pairs:
+  al: Ada Lovelace 
+  edlf: Enrique de la Fuente 
+email:
+  al: adanator@me.com
+  edlf: queenrique@gmail.com  
+  
+
