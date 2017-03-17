@@ -4,8 +4,8 @@ _**by Terry Urich**_
 
 _A Github hosted landing page to showcase projects I've worked on in a proffesional or academic manner_
 
-* _Clone repo_
-* _Navigate to folder and open index.html in any browser_
+1. Clone repo
+1. Navigate to folder and open index.html in any browser
 
 [Github project link](https://github.com/terryurich/epicodus/tree/gh-pages)
 
