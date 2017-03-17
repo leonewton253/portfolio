@@ -27,4 +27,6 @@ email:
   al: adanator@me.com
   edlf: queenrique@gmail.com  
   
+git config --global user.name "Terry Urich"  (ommit --global for single repo use)
+git config --global user.email "urichterry@gmail.com" (must specify github email or it won't associate correctly)
 
