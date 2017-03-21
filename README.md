@@ -7,8 +7,7 @@ _A Github hosted landing page to showcase projects I've worked on in a professio
 1. Clone repo
 1. Navigate to folder and open index.html in any browser
 
-[Github project link](https://github.com/terryurich/epicodus/tree/gh-pages)
-[Live site host on Github](https://terryurich.github.io/epicodus)
+https://terryurich.github.io/epicodus
 
 
 Copyright (c) 2017 Terry Urich
