@@ -1,6 +1,7 @@
 Git Notes:
 
-curl -u 'terryurich' https://api.github.com/user/repos -d '{"name":"newrepo"}'git init
+curl -u 'terryurich' https://api.github.com/user/repos -d '{"name":"newrepo"}'
+git init
 git pair tu es
 git add .
 git commit -m "First commit"
