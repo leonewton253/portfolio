@@ -5,10 +5,8 @@ h1 {
   -webkit-text-fill-color: transparent;
 }
 
-
-
 img {
-float: right;
+  float: right;
 }
 
 em,ol,ul,strong,p {
